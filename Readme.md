@@ -4,6 +4,4 @@ I am not bot
 
 
 
-Discord:
-
-マイクラサバ立てようと頑張っている人(？)です
+Discord:wdj09#0019
