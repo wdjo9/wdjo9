@@ -1,7 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdjo9)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aic-6301)](https://github.com/anuraghazra/github-readme-stats)
 
-I am not bot
+プログラマーもどきです
+2022/7/9 22:00 discord pyをつかってbotを作っています
 
 
-
-Discord:wdj09#0019
+Discord:あいしぃー#6301
