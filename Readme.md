@@ -7,5 +7,5 @@
 Discord:あいしぃー#6301
 
 Aicy-web
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aicygroup&repo=aicy-web&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aicygroup&repo=aicy-web&theme=nord)](https://github.com/aicygroup/aic-web)
 
