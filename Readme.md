@@ -4,8 +4,8 @@
 プログラマーもどきです
 
 
-Discord:あいしぃー#6301
 
-Aicy-web
+### Aicy-web
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aicygroup&repo=aicy-web&theme=nord)](https://github.com/aicygroup/aicy-web)
 
