@@ -9,3 +9,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aicygroup&repo=aicy-web&theme=nord)](https://github.com/aicygroup/aicy-web)
 
+[![Discord Status](https://discord.c99.nl/widget/theme-1/964887498436276305.png)](https://discord.c99.nl)
