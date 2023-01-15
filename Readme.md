@@ -9,6 +9,6 @@ Site:https://aic-group.net
 
 ### DiscordBot
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aicygroup&repo=discord-bot&theme=nord)](https://github.com/aicygroup/discord-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aic-6301&repo=AicyBot&theme=nord)](https://github.com/aic-6301/AicyBot)
 
 [![Discord Status](https://discord.c99.nl/widget/theme-1/964887498436276305.png)](https://discord.c99.nl)
