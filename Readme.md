@@ -5,7 +5,7 @@
 
 プログラマーもどきです
 
-Site:https://aic-group.net
+Discord: https://discord.gg/KcKBBjBV8W
 
 ### DiscordBot
 
