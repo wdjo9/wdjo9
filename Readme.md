@@ -1,8 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aic-6301&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aic-6301&locale=ja&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aic-6301&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aic-6301&theme=nord&&locale=ja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aic-6301&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aic-6301&theme=nord&locale=ja)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 プログラマーもどきです
