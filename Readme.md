@@ -1,5 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/aic-6301?style=social)
-![ツイッターをフォロー](https://img.shields.io/twitter/follow/AIC_6301?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/aic-6301?style=social)](https://github.com/aic-6301)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aic-6301&locale=ja&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
