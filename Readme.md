@@ -7,10 +7,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aic-6301&theme=nord&locale=ja)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-プログラマーもどきです
-
-Discord: https://discord.gg/KcKBBjBV8W
-
 ### DiscordBot
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aic-6301&repo=AicyBot&theme=nord)](https://github.com/aic-6301/AicyBot)
