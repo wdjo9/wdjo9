@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/aic-6301?style=social)](https://github.com/aic-6301)
+[![GitHub followers](https://img.shields.io/github/followers/aic-6301?style=social)](https://github.com/aic-6301)[![Guthub Viewers](https://komarev.com/ghpvc/?username=your-github-username)]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aic-6301&locale=ja&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=aic-6301&locale=ja&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
