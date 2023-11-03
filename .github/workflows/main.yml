@@ -1,12 +1,23 @@
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  template: repository
-  filename: metrics.repository.svg
-  token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-  user: aic-6301
-  repo: metrics
-  plugin_lines: yes
-  plugin_followup: yes
-  plugin_projects: yes
-  plugin_projects_repositories: lowlighter/metrics/projects/1
+name: Metrics
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0,30 * * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: 🦑 実績
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
