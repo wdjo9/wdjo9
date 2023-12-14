@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/aic-6301?style=social)](https://github.com/aic-6301)![Guthub Viewers](https://komarev.com/ghpvc/?username=aic-6301)
+[![GitHub followers](https://img.shields.io/github/followers/aic-6301?style=social)](https://github.com/aic-6301)　![Guthub Viewers](https://komarev.com/ghpvc/?username=aic-6301)
 
 ![Metrics](/github-metrics.svg)
 
