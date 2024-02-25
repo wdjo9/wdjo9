@@ -49,6 +49,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: .user.login
+          plugin_music_token: ${{secrets.SPOTIFY_TOKEN}}
           plugin_steam: yes
           plugin_steam_achievements_limit: 2
           plugin_steam_games_limit: 1
