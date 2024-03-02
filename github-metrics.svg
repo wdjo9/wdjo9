@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2052" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2036" class="">
     <defs>
         <style/>
     </defs>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    353 MB used
+                                    328 MB used
                                 </div>
                             </section>
                             <section>
@@ -2113,7 +2113,7 @@ https://github.com/misskey-dev/misskey/issues/10805</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.16m out of 80.7m repositories</span>
+                                    <span class="gh">ranked 5.16m out of 89.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2348,7 +2348,7 @@ https://github.com/misskey-dev/misskey/issues/10805</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        12 hours played
+                                        13 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2365,32 +2365,32 @@ https://github.com/misskey-dev/misskey/issues/10805</div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 27 achievements unlocked
+                                            8 / 27 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFAv/EACoQAAEDAgUDBAIDAAAAAAAAAAECAwQFEQAGEhMhMUFhBxQiUTJxFTNC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AIz6R0Gh1yPmFGYUWQ2w0I7u7tlDqnNKfl0FybXPHIv94x67k52M5IVR3lTWmFFLzC0bcmOQeQ434+xcY0/TaN7zLua424hvdbiI1ufim8hIurwO+GXqXlz+EzNG9rK3XEIZ23gpWstqTZAWo9TwbK7gaTykXCWU7LE2SEKebWjWUpbZSLuuFRskJT5OO85UqPRprUOM629oSNxxvlJXYaglX+gDcahwbG3GKl6ZZeRXc5TI8qStCiXN5adRIRpUClKh+KiL3V2TwOVG0rzhGMKoORFPpke3ecZDyVakuBJsFJP0QOPGA3/TlTyMrZyXG/sTGjm9uAN8XJw9zTmF6r1JhyKt5D8QtQYvtVbrcxKdKlJHUgpvyoXB4HBxE6JWahQ5olUqW7GfAsSg8KH0odCPBw2p2cWJ9Rp05xSKRV4AAjuNJtFNiTygfgSVEki4J6jAJ6JmypZdq2ZZDyHjNMGQljdVpDSgoXBSR8j8gR4He+JRXHVPojuLUVKN+SLfWEGa8xtS6lOkuvJqc6U6HXHSmzSVAWBSOp4/Q8YHypLspzW8sqPYdh+hgP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EACoQAAIBAwMDAwQDAQAAAAAAAAECAwQFEQASIQYTMQczQQgUIiNCUWFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AI96P2jpq50vUEnV6EUcMcCxzhmUwu8hUMSPC+M8Hj40Toeh6OokqHttllklp52haOqq2mUbdpLARRncuHXBJAOdAOgI+70b1im5V/Cj5Zgo9/8As6tv06QrDTVGyYS4MwyrAgexxkaCN3jpFBULsoYVmlqVp+1DNJGFZgxBIkRcLhGyQcDB0tda0VroLj9vY6sVtFH+IqQm0SMANxXPJXOcE+RzrQP1KQieCm3ziL2hlnAB9/jJ/wC6zfd4+1DTpuVsFuVYMPj5HGgZ/SWvt6XuptF7Ba23eEU7gSdv9isHj/L+OWXbn43atfolcae1x3KW7rBah9xUR9kgqsRHY/WPnIA/0nzrLYODkedPts6te508NPcrlVUFfHtC1kUrqk6jAAmCnzgYD+cedBV/XK/266JR1Ns7N0hgqYI5InjcJISJ8pkgHOPkcjzqCdVSUhukkNtieKjjZu3G8m9kBOdpb5I4GdFuoOoTH3aeluNVcJC7HvzSuyRgk8RhieccbtKBOTk+dB//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Trigger Discipline</div>
+                                                <div>Wall Hax</div>
                                                 <div class="unlocked">2 Mar 2024</div>
                                             </div>
-                                            <div class="description">Do not injure any civilians in 'Piccadilly'.</div>
+                                            <div class="description">Save Alpha 3-2 from being downed.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcFCAADBP/EAC0QAAIBAwICCQQDAAAAAAAAAAECAwQFEQAGEiEHExQVMUFRYXEiMkLBJFKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AK4bZsD3hqieeZaS2UgDVNU4yEB8FUfk7eAX9DRjtWxLuOvntu0LNQSTwwmbjukoaWYAgHAOFB55wBy9ddrWCpfZNkttupppP4ve1S0SFgXkJClseiBQPk6dHQrs+02nZNuu9woqQ3OozUtVTAFohkhQGP24A8vXQLCv6GN0s3BNZrPOpLASUVQIWGACORwOecAY8RzxpN3W3milyjF4SxUEjBUjxVh5Eatl0yXisbbLXTZe5Viq7e4Wqio6lG443IHMc/qBwR7FtVuvFkrbdbSLjT1ET1CdoVpUI4vE5Gf999AYR7lrKXZNmudqqHj6yj7nq1T+0ZYhW9AyMD74PpqSXcNVu/ohqLDUwQiqts8K0TK/AagKrExgHkz4zyB8xy0qtsbgezmop6iEVdrqwFqaVjgNjwZT+Lr5H9aK2O3rrbKal72KQ0xcwdaRFLGGPEVdW+h+f5Ag+RyAMBGxmstG0LjBNDJTNV10KBZEKMeqV2bAPPALID8jWXzcdde7UslzqHm7LD2aIN4IuMBR7a3X2rt/d1PQtdJKiCGQy8by9fKx4eEKuPpRceWTk/A0I3Ku7VwRwp1VNH9iZyfknzOg/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAQI/8QALhAAAQMCBAQEBgMAAAAAAAAAAQIDBAURAAYSIRMxMlEUIkGBB1JhcZHBFUKx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOdsnZWlZkkSC3qbhRUF2S+EFZSmxNkpG6lmxskdieQOCqnKbGToplJiJb0kodqJ4zz3Y6R5Rf7e5w1UqsScpUCiU2A3DW1JhCpy0SWQsOuuKPD36klKQmxSQRc4wZem5yqhlQKWmPUb63EpeJS8bdQBF7jmef7wGlIy/SV5EYq9SaYbmPFxaUREBB0ghKEhPzFQcJPIJR9RicVGEIxS4wvixnOhdrH7Ed8WOtZOkw65T2s1zIcGIyzojseLCVJsnZVgCbEixO3PntiY1EMu+IEdGhh5vjJRq1aFJ6gDbuD+cA1TpKpmV6BVIxWQYX8Q+G1aSh1pRKAT6AoKT9bHDx8N89UzKVGPimX1VLhmOQ44lLCbKUdW2+50A8ztfEYyxmBVHMiPIYTMpcsBMmKo2CrclJP9Vp9D+sGn26dMQlVPq8R1kCyGaiCy60Pl1DY+x9sAxZnzTGzZXBPrMdUtp5LbSksKU2WTa2lG+6b3Pm33OBmcaZQKdSGZVGmSnFqStrhOKbcQAb3OtNlBVzulSQfXcYBuiPEQoO1CG2hQspEIlxax21ch+cAqjNEkobZbDUZvoQP9J9TgP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Out of the Fire</div>
-                                                <div class="unlocked">28 Feb 2024</div>
+                                                <div>Long Way Down</div>
+                                                <div class="unlocked">2 Mar 2024</div>
                                             </div>
-                                            <div class="description">Complete every single player mission on Veteran or Realism difficulty.</div>
+                                            <div class="description">Crash a helicopter by shooting the pilot.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+6 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2401,7 +2401,7 @@ https://github.com/misskey-dev/misskey/issues/10805</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2024, 17:38:52 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2024, 18:38:57 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
