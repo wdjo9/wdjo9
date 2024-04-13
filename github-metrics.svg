@@ -1503,7 +1503,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.60m out of 134m users</span>
+                                    <span class="gh">ranked 1.61m out of 134m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">30</div>
                                     </div>
@@ -2204,7 +2204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Apr 2024, 15:39:27 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2024, 16:39:22 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
