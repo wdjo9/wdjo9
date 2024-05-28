@@ -1933,7 +1933,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.26m out of 207m repositories</span>
+                                    <span class="gh">ranked 5.26m out of 191m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2168,7 +2168,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2185,32 +2185,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            24 / 637 achievements unlocked
+                                            26 / 637 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAH/xAAmEAACAgICAgICAgMAAAAAAAABAgMEBRESIQAGMVETQRSBQlNh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMA/8QAJREAAgEEAQQBBQAAAAAAAAAAARECAwQhMQAyQVFxYRKBocHw/9oADAMBAAIRAxEAPwCOet4uCeCxavTxQ0qy8nZtcmYqSEUEjbHievGLG1sfPbaCpTyE8oHaCvEddb/2f34CxMFm3hZK1JtWJb9aOMggdtHKP6+fG6m2Dw+MqPk5ZpKFyVlhRd8bAU9zzfHLvRCnetjQJ2TCvXlSmZykUMABMlPv+eFOjGrEU4RBmckloBrsQyVgY755hyNKlBD+WzjMvCpHLRqJsDodrz2Pn9/R+j4B9jxcEdSC5Qmimo2FBQrx5I2lJVgCdMOQ68rORw9XG4h58WhE8MJkuUypWrZB6IVTsK2ge/8AmjsHRmPtMcNXHxw0kCU2tu0WiSGQw1yrDkSRsEHRPW9eRsr2dxUBEiY6LWMP9b94HK3NtClTIMVIZCaIYB3revWd856itlq6Nj4hLZjyFaWNCdcisUzH6+j+x40YvMRYpa+PuUhZpRTM1YzAfkhZewCD1zXfetEE7G1IPk0xWb/gpLDPALNOZSJYSFBJ4sFZWKniy8iQR4ZPt6T2JbEtfISPKAJEktxMkgBJHJDDxbWzrY6618DxuredaZjIOJyCNgpeR/L1xtq0KMRMdWiC0QyRkApPH3HzxztZrIZGrWoQW3ktKjGaQqqLIrbG3UAkKNj4PZ6AJIHin7LMsuMhaNSIYrckMXIhj+NIYFQkgkElQN6635mPuCRyRtDWyFcRsHWOvahij5D/ACKLCFJ/WyPjr48F5XNC7DFBBXWtThAEUICkg8VDMzBRyY8dknzWlrKhMCIUdk4+ewfnmuriNaH1S6tABoBgnJA8c//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwUGAgT/xAAsEAACAQMDAQcDBQAAAAAAAAABAgMEBREAEiEGBxMiMUFR0RQjoWJygZHh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwQAAQX/xAAjEQABAgUEAwEAAAAAAAAAAAABAhEABAUSIQMxQVETsfCh/9oADAMBAAIRAxEAPwAPtVA86nZ3eFAJLj31qKCx1IYEimKkeqn41LsW76aYJydqnSh2b2ue8xNJVqsFDEwheSJQryY8wAMeL3fz5PJOCmkhkth3gEnILqB1EoWxS3HHP3MYSssVWQzbINgOMhTgfjUG922SnjJbu9voUGmHr2yVVgmWpRY6i0uVzLsDSKvkPuEFhx5c4JGGBOdxh1LVPPSQsyhd4ywA4zxqEpU4IYiLnqauQ8ar7grHWzfkeawy9xBNIvGIwQceuNJB6q6W6bucz2CuqvEUMlPK++FxgbsE+IHJJyc4OfQ6IbZcUSJopRlSMHVOjS2sjGREJPu3+aGCSxScwxTauql3tp3Xeuj9iEfrztAN7pVsVkRvp5SGqHcAkfpXGcemf49tYfqqA01NAuOAOfxrmkuFFb9wiijz+4/GpvUt7WvG0D+ufb40QkBJKjkwlP1DWqMwFFNqBsOn9nsx/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Affluent bakery</div>
+                                                <div>Reap what you sow</div>
                                                 <div class="unlocked">28 May 2024</div>
                                             </div>
-                                            <div class="description">Bake 100 million cookies in one ascension.</div>
+                                            <div class="description">Have 50 farms.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAH/xAAmEAACAgICAgICAgMAAAAAAAABAgMEBRESIQAGMVETQRSBQlNh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMA/8QAJREAAgEEAQQBBQAAAAAAAAAAARECAwQhMQAyQVFxYRKBocHw/9oADAMBAAIRAxEAPwCOet4uCeCxavTxQ0qy8nZtcmYqSEUEjbHievGLG1sfPbaCpTyE8oHaCvEddb/2f34CxMFm3hZK1JtWJb9aOMggdtHKP6+fG6m2Dw+MqPk5ZpKFyVlhRd8bAU9zzfHLvRCnetjQJ2TCvXlSmZykUMABMlPv+eFOjGrEU4RBmckloBrsQyVgY755hyNKlBD+WzjMvCpHLRqJsDodrz2Pn9/R+j4B9jxcEdSC5Qmimo2FBQrx5I2lJVgCdMOQ68rORw9XG4h58WhE8MJkuUypWrZB6IVTsK2ge/8AmjsHRmPtMcNXHxw0kCU2tu0WiSGQw1yrDkSRsEHRPW9eRsr2dxUBEiY6LWMP9b94HK3NtClTIMVIZCaIYB3revWd856itlq6Nj4hLZjyFaWNCdcisUzH6+j+x40YvMRYpa+PuUhZpRTM1YzAfkhZewCD1zXfetEE7G1IPk0xWb/gpLDPALNOZSJYSFBJ4sFZWKniy8iQR4ZPt6T2JbEtfISPKAJEktxMkgBJHJDDxbWzrY6618DxuredaZjIOJyCNgpeR/L1xtq0KMRMdWiC0QyRkApPH3HzxztZrIZGrWoQW3ktKjGaQqqLIrbG3UAkKNj4PZ6AJIHin7LMsuMhaNSIYrckMXIhj+NIYFQkgkElQN6635mPuCRyRtDWyFcRsHWOvahij5D/ACKLCFJ/WyPjr48F5XNC7DFBBXWtThAEUICkg8VDMzBRyY8dknzWlrKhMCIUdk4+ewfnmuriNaH1S6tABoBgnJA8c//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QAKhAAAgEDAwIFBAMAAAAAAAAAAQIDBAURABIhBhMiMUFRwQcUMmFxsdH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBQME/8QAHxEAAgIDAAIDAAAAAAAAAAAAAQIAAwQREyIxElGh/9oADAMBAAIRAxEAPwBH2qgedTs7eFAJLj30U2qx1Uz4iFNJxyApPxrN6bBaKVRg+FSf40d9NUrVXUlJS/aU89PIHVxUQd2NABnftyOQQFz6b8euqXjXUbCPUiuzPZ8AYLXGx1UUpSVIE/W0j41g3u2yU8ZLdvb6FBpq9dUZg68u1NHQ0lHSwFY4o6ODsxMuPz2ZPJOQW9dv60CdaMyhUAwpz8afjZV0AhV2S7nuVOlmVBI5GFEYbPvxpkWG91dFb4JbNbjUiohR5qhYXlJfHiTw/iFJICnnjPO7JTtouiwRtG4JBGD6akYIZ3Z0lZATnAkI1y2r1QKDKODeuJkNbbUHGtaO9fk6E6hrjW/TU3u90xpbnBVSU9MzKYWMYi3KNrcupcBOPceW0EJ7rN+5HDKB4SCf60NxRRQzAvIW2nyLk6sX67pUwrEg4GPLn2/zSpHJCpPuZZlgyckW11hR9Cf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Mass producer</div>
-                                                <div class="unlocked">27 May 2024</div>
+                                                <div>Enhancer</div>
+                                                <div class="unlocked">28 May 2024</div>
                                             </div>
-                                            <div class="description">Bake 10,000 cookies per second.</div>
+                                            <div class="description">Purchase 20 upgrades.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+22 others...</div>
+                                            <div class="description ellipsis">+24 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2221,7 +2221,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2024, 20:39:05 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 May 2024, 21:53:17 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
