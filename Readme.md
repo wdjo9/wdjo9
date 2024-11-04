@@ -1,8 +1,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/aic-6301?style=social)](https://github.com/aic-6301)　![Guthub Viewers](https://komarev.com/ghpvc/?username=aic-6301)
-## Using
-[![My Skills](https://skillicons.dev/icons?i=discord,github,misskey,twitter,windows,python,vscode)](https://skillicons.dev)
-## Leaning(Feature✨)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,linux,ts,mysql,postgres)](https://skillicons.dev)
+## たぶんつかえる(使ってる)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,misskey,twitter,windows,python,vscode,lua,mysql,idea)](https://skillicons.dev)
+## 今後学びたいやつ
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,ts,unity)](https://skillicons.dev)
 
 ![Metrics](/github-metrics.svg)
 
