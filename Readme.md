@@ -10,9 +10,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=aic-6301&theme=vue-dark&locale=ja&date_format=%5BY.%5Dn.j&type=svg)](https://git.io/streak-stats)
 
 何も作れないくせに何かを作ろうとしているよくわからない人。
-Allive in [HSS-Project](https://github.com/hss-project) and [S-Server-Developers](https://github.com/s-server-developers)
+Alive in [HSS-Project](https://github.com/hss-project)
 
 ## Links
-Misskey.io: [@aicy@misskey.io](https://misskey.io/@aic6301) (Temp※移住先を常に探してます。招待してくれる人はioのDMまでお願いします)<br>
+Misskey.io: [@aicy@幼女.art](https://幼女.art/@aicy) (Temp※移住先を常に探してます。招待してくれる人はioのDMまでお願いします)<br>
 Discord: [AIC_6301](https://discord.com/users/964887498436276305)<br>
 Other Links: https://me.aicy.tech
