@@ -13,6 +13,6 @@
 Alive in [HSS-Project](https://github.com/hss-project)
 
 ## Links
-Misskey.io: [@aicy@幼女.art](https://幼女.art/@aicy) (Temp※移住先を常に探してます。招待してくれる人はioのDMまでお願いします)<br>
+Misskey.io: [@aicy@幼女.art](https://幼女.art/@aicy)
 Discord: [AIC_6301](https://discord.com/users/964887498436276305)<br>
 Other Links: https://me.aicy.tech
