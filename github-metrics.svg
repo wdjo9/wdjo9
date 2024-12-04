@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1555" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1635" class="">
     <defs>
         <style/>
     </defs>
@@ -1914,7 +1914,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 213m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 219m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2133,15 +2133,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAACAAFBwkBBAYCA//EADkQAAEDAwIEAwUFBwUAAAAAAAECAwQABREGIQcIEjETIlEWMkFhcRQVI6GxFxg2N0JFUmJygYKR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ABnu90euMkuvFJOMZApxh6N1JNjIeiWeU4wd0qSnY174eRmZ2urLGmIDjDkgBaR8RVhzzlk09p9EmcI0OAw0nqcUkBKRj40FevsHqs/2OZn/AGil7CasJwLHMydvdFWJWSZZ79AROtK4suIvZLrSfKa1LvfNOWidFh3STDiypCulptY3WflQV8HQeqxnNjmZO2OmsjQerMEfcczbv5RR6ak1zovTdwMG+3S3w5fQHC24N+k9j2r42PiHoO+S0xLVebbIkKOA2nufyoAP9hNVBOfuOZ0+vSKaGHJVmuY8ZooebPmQob1ZwqHEUjBYa6T/AKRQbc3NuhxNXR34zDbLqwEqDaQkEAelBFXDDbiJYvT7Qn9DR38UbErUnDC525sEvORfw8etAhwxA/aJYvQyB+hqx+GOqGwVD+gbeu1BAHKBeyrTlx026v8AHtzy1rSe4yrFctrNz215orVDbLjlshlvxAk+7gEE/LfFLRkyHwp49ahi3V0MxpzQdBUcDzEqpy5WLU5cdZ6r1M8PEjPOrRHWrfs4d8/Q0HO8V7PB1RzTWyz3FCjAfQxHcSlWCQEn419+YThLprQmm494007JgzPEKcKfJ6h6J9DTNxls0zUPMpHtVsmiDLlBpDUk5w2rB323pse0vJh8X7fpHiXd5E6CVJUHPFUlBB7HegK/hFcpl04d2qTcUqEjwgnzdyABg0NvOIB7UQx8MDP/AJRe26JHhW2PFgpCYzTaUtAf4gbUIXOJ/E8T5gD8qCIOGH8xLFhJB+0DA/4NWPwsiGx1DfoH6VWRp+7O2O/w7mwAXYzgcSDvRg2XmU0w5bGDLYeZkJQAtKljvjfFBo8zvCy66ruEK8aciqkTNmnUoG4SBtUlcDtHO6H0BFtMvBklanXSBggq3wfpXI/vI6QO+HB/3FIcyGkTnIcBHbKxvQNd/wCHN+lcx1r1OywVWhhTa1u422BBH507cyXDOXrS2w7hp9sffERfUekedxOMAA14PMjpEY8rp+ixUuabvtv1JZ2bnaJCJEV0bKQex+I+ooG/QLN3i6Pt7N+INwaaSheBjYAAA/Ohc5xAPaeEoKG+NvTaic4h62tmhrS1OvBV4TiilKQcEkCgi43cREcQdTiVEjLjwWwA2heCon1zQRuv3qx6elbdxgvwpHhyWykkVqYI7g0GNqW1LpPpS6T6UGQAR8/Wpr5ceKq9F3xu13Z0myy1BHUT5WCT71Qpg4zXrpII6gcntigNLm5dZkcO4DyFoU2twrQe/UCkEEUFiPz+Fd/P4k3G48PmdL3IKfQwolDq9yAewzXDw4zsmQhppBU4rZIFB//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABQYCBAADBwH/xAA0EAABAwMDAwEFBQkAAAAAAAABAgMEAAURBhIhBzFBIhMUMlFhFUJScYEjNWJjgoORocH/xAAbAQABBQEBAAAAAAAAAAAAAAADAgQFBgcBAP/EACgRAAEDAgYBAwUAAAAAAAAAAAEAAgMEEQUGEhMhMUEiYdEUJFJxkf/aAAwDAQACEQMRAD8ATdM2AX1Jfkk7+3p4poR0/iKT8SjjnvWdLkg29QPpO4966rarcmUguOENxWxlazSv2qtNNPJPtx8k9BcvY6bsyDtZS46rwEmriul0Bj1TJqWV45QScinS+6nYiIMS1t7Ep7r8n65oRp3UseJMddujKpSVDAGaEZPAV4oMpzmLdqnEn8R8oAOnVhWCkTwT89xrH+lrAZD0ZwyGx99B4FTuE0PznXY6fZMqUSEeaJ2G/vQJKMKO3Pwq5T/iuCQqSq8oRvj+3eWut5S2rp/EKeVqJPG7PFL2o9LN2mMZDRIWjtk13uaxHnQU3CCkYVw62Pu/WubdREj7FePfjxRQQQs4f9TSVOxN2CqfSRlcqOlpPxqWRTxrzUce1xGoDDgQ12znurzmlPo4sR7LOmq4U2klH50l9QI03UM1ssLUlsOEqIPahSutwFdsq4ZqfJXFtz01G4s0TipSTuycZFbwrJO4bSmhcJpm125tpbgS2nusnzV5DgWkLSoLQexHmgArRmA6QHd2VjcM1IK571XBzXqlYTmlApRCedCXj2UpUWTkNPDYrJ4xQTqnHMWDKZHy3f0ntSRp/U7cq9FhhtxC21YJUe9P/VB333R7U3IK1DYrHyFFid4Wd5uoWShldGOQbFAtFLLPT11wcb1qFB2lnBGe5o10/ZM/QMthHdkqX/ugCMpyhXcHFCnuHKw5Tc11FZvYJukzXs51U9ERKiGgAcA4zQm36guFvT7Nh3KR4UM00avsy57KZUVO51v4kjuRWy0RLY3GQEJSp3HrChk580G/lShhkfO71WS2/q26OtlJcQnP8PNO2kLi5OtKFu+p7cQT4oLfrfCkMbIiQZh+BKR3NHbBb/sm0txVcu53rx4zXQb8okLJWzaXOuFtjWiJEnOzWkn2ivAPmm67Oe99PJee7SSrBpcUspT6SDTDc2Vw+nEtx0cyAUiixH1KLzK2NmHuB45H9Vfo/M9yjlahvaKiFo/EKP6v0Sp0rudgUHmlepbKeSiub6MvbFpYW1NV7NR52mnaFr+JGO5iSELHhR4P6U4ewPHKzfDMZq8IqXOjF2HsJRcK4rhDyFIdHGD2qCxFeP7dsbv5Y208ydd6fuCdtyjtOE91NgJoU7O0M+cgPNK+rlNjA4Hgq/QZvoKho3mlp9xdLzSmI/EdtKT+JYyRXqXdy8DKlnzR9EvQ7Z5Lyv7neiMPWGlrZ+74ySr5u4VXthx7S5c24fA07YJ9gFPSmjJNwUiVcj7rAQd3r7r/ACqXVWU0uyuRoo2xmk4Sn/ta53UOLMA9pISB2CEcAfpShqvUca429TERYW4rjHk05YwMVCxjHarF5mt06YweB8r/2Q==" alt="" />
                             <div class="about">
-                                <div class="name">VRChat</div>
+                                <div class="name">Slime Rancher</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access
+                                        Action, Adventure, Indie, Simulation
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2149,7 +2149,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        93 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2166,7 +2166,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 0 achievements unlocked
+                                            7 / 57 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAAb/xAAuEAACAQMDAgQFBAMAAAAAAAABAgMEBREGEiEAMRMUQVEHIjJCYRUjJKFScYH/xAAYAQACAwAAAAAAAAAAAAAAAAABAgQFBv/EACARAAICAQQDAQAAAAAAAAAAAAECAxEAEjFBUQQh8HH/2gAMAwEAAhEDEQA/AO31nqG7W6814WvmpqWF0VFQLyGXIIyCTyGz2AwOlKOr1nVUqVk93htVFIMxvcHRGce4ULn+h1Rvoiqdcz+dXfQ26lkuEsW0BZShwin/ACwzZ9vT36hXC+Wu3VZrdVznzskKVDzTxsYIldiqoCB3yD8o9AWOfSzknEaKqqLrrM3F4jSyM7O1XsCfq4yi0mtztkoLrDeICcE290Zl/wBgrn+uj6Qv94rr5RJNW1E1PJI6yRyIoKBRzuAAKnJX8HP4OJ1l1HbLhXef0xJtqYImlWspoyIJNrANE59TyCVx9J3DkdWLO6LrtJKTetHcoEuEaSDd4ZdiJFB7jLLn2OMe3QjnEisrKLrrDL4hidXV2q/Yv78wN2/c+I01MFeZLhTyW2fwssYA20wllxkDcG5HGDnPQdR6e87RPbL9EpemKNsL7GZkxtmiz9Q7ds4yQR0HU1m1Q+tLlNDR1VVaJZIpYPCMTbGXaeA7Ky/Mv2sPfk9g3CP4hVFXWk2iC62tpmnhprx4fixFvtRkfOB2HPbpJI9ekqw2HOS43CAgg75rTSQ22N6C007PV1Duyxd2klfgyP8Aj/gHGB03pmqp59c0y0s6PT0dOltp5N3FTsLmZlA7gSFeTx8vfnmU9q1xUPHTVdkht1nmH8qCyGNZpV9Y2kd9wB7HB7Z79OaSsOpKXV1pP6dPQWOmLs6MIY1JO4gbUZiQC3AZjjvx6lIwgYlhdd4sjaqAHOf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Plort Authority</div>
+                                                <div class="unlocked">4 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Sell 1,000 plorts at the Plort Market</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgUGBAP/xAAqEAACAQMDAwIGAwAAAAAAAAABAgMEBREGEiEAMVEHQRMiMlJhcRQzsf/EABkBAAIDAQAAAAAAAAAAAAAAAAEFAAIDBv/EACIRAAEDBAICAwAAAAAAAAAAAAIBAwQABRExEnEhQVFh0f/aAAwDAQACEQMRAD8At9Zahu1uvNeEr5qalidFREC5YMvBGQSeQ2ewGB1KR611TVVHw6Gsq5CeQixLI2PPC9b/AFTmnqdVQ2yBsGd1UDbgMxbauT3bBJ/Azx7noL5qe2WSCK2VlQaa30cQ2ExskcilyoaRl+t2YMwXsByQTz0xlzmoLAETaERaTrH1XPQbW/cpLgi6oAO1z858ImUrHLrXVNJOI6+sq4jjOx4ljbHkZXqr0bqG7XG80AevmqaWZ3Dq4X5Qo5JwARyV8g5/eJazajsuoGakLyTWwozPJGGaJOQpdCfokQkNhcblzkHph6YvUUeq6i1TtlqaUocrkKQ21gD3XcQD4OPOD0Ik5qcwao2gkO0o3C0yLZJbEnVMC0vW0XyqUv8AV2aSj1ZFdKYrJNRyqXAb+vDKYww9skPyOOe+egv9rh1RZ5LhThKmzBlkUCQB4WHIBHs6njHv3GQen+rLDqOq1ddSbdPX2KpaN40UQyKCu0kbXZSASvIVh3zye0ZJ6eavobnVVWmKWvoafOYlkq0imx9uVYhseSRn99ZTIbU1oBI+JDpe/VMLZcHLa8ZiHIT2nXtKd6As1spqgG5SGgtW9mknmG1ZZGHI3HGWP4HYddPS+X+VraruT1COayof4L4ZPjqWYuVU84B2d8Yx546RJ6e6wrrrS1Gqaa4XClHzSLHVrLLj7AXcBc+5H+9WGkrDqSl1faSbfPQ2OmLtIjCGNSTuIG1GYkBm4DMcd+PeQ4TcJs0Q+RFtatdLidzdAyDiI6Tf5X//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Fortunate</div>
+                                                <div class="unlocked">4 Dec 2024</div>
+                                            </div>
+                                            <div class="description">Earn over 5,000 newbucks</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2177,7 +2202,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 19:19:29 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 20:15:15 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
