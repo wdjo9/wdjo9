@@ -1924,7 +1924,7 @@ Fixes #12</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.52m out of 231m repositories</span>
+                                    <span class="gh">ranked 5.52m out of 233m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2143,15 +2143,15 @@ Fixes #12</div>
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAABwYDBAUBCP/EAC0QAAEDAwMEAQMDBQAAAAAAAAECAwQABREGEiEHEzFBURQiI0NhcRYyUpKx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwQAAgUBBv/EACIRAAIDAAICAgMBAAAAAAAAAAECAAMRBBIhMSJBBRVRkf/aAAwDAQACEQMRAD8AHekfTWTrmepx0lq2s8uOeN37A19Cx+lenLewlptMg7Rgfk91u9DYLNv0EjsoG0vLzjyaqJy9yiPQ5yKaqQZsTusJOQ7naCsaArah/wD3rgy9EWjna29wP86QpyVLcwnOK490hPLjPFgncE0wFX+Rbs3rYZTtO2JhzZ3VJc+CutB7TEFPKW3Tnwd1cjUNvbiXtKlyluOFWSkKPBpJjwQuAyrn+wf8qikMSMjVtZqAO+4ePaZhLCkkLCf5qM1JphdvbVIYyWBTNIhlKuQMH1iuNeYIctr6XBlOPFR6lIlEtYHzF7pJM7ehmk5/WXXdkSwpR+KgemEnZpJtIV+qqqX6gkZHzXUHiCsPyMyzprUYbn1BGfAPuoOVqGfEukhl4gxlJyjA5NbfUCcpqIwls/cFE7jRVdL/ACXHiHVBamxlBA8n4qM+QtVfaZF3Jl/U4c2AhtW4IUMkml6C81OtiJDScIxjj0aG9BR1T7xIkPKQCBnkU/8ASTTjUiBJVK3BvcSEk8Hms79jXWcPv7mpb+LtZA/oZI+6uNR9u48qOK5d3ZCre8UjwnNX+q9KxjNCxu2A8c1OaiiNiDJbjpJLbYzTNHMTkb1ifI4D8cBj6M0OnT4Rpdvedn5VeauYEVyWhJbIKc+RRVpYrd0cftUAlxRyDVxYbu63A+lbQsYTncTRq27DxF7q+h0mTnUxcuHeGIim+6Dg4SKOdZSIra20NN7XCOUjzmka6vJuOr2g+srOAkKzwDRvrmOiPd1sqHc5+1Q9UJtzzGq8DKFnulXwxcGjHCkqXgKyeKYOmusp8XUz1tmqQplSRtCRihewq2z4qHMBsrxmkq9rg2WXCmQie43hbiic+qx3pY2lc8Hz/k9GLqjxwd87mRT1leG3SkIGw580aahujjbb7afG3O75rx3V7zzKw321JWMhSk5xUnPnpfLplK4I5I4FaXFqNY1pi869bCESeaIuw/pf6VYUQVqI5qjRPbZBMZwgbQOTnmhTTF8NvX2XSQ2T5J8VXt3xhYCkOp2nijo4yIOh3+yudCVSA+Ce95BBo9vch65XtLKAS4pW0Gus5eUFtaUOjdj7TUxCk9m+JeLoO07s/vVbWB9Q/GQje31Mr65ER0IWdrjZzVXaZStQW8sSnMHGM1LakmNyX1LSpIChgmtmwXBuFDCe4Mk8mqA/LDCWaa9X3KeytpMZ5l90BxokJ/isN/YaYZdCVbhsCia5a7y2lKlhxOfZA9VPX+/l9lTLKioKGCR8UQuAIv0Yts//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAwACAwEAAAAAAAAAAAAABQYIBAcAAQMC/8QAMBAAAQIFBAECBAUFAAAAAAAAAQIDAAQFBhEHEiExQRNRCBQiMhVCYXKBFyMzcaH/xAAaAQACAwEBAAAAAAAAAAAAAAAFBgMEBwEC/8QAKxEAAQMEAQIDCQEAAAAAAAAAAQIDBAAFESExBkEiUWESExQkcYGRscHw/9oADAMBAAIRAxEAPwDeBJxxznuOZJxgZx5jiuwcHJ4xCPqpqJI2BTCSUv1h4YaZSfs9iR7RjLLDsh0NNDKjR9awgZNO8y41KMl2ddRLo73rPEAJq+rTk1bZivSmfIyYkqqVq6r5nFTdRnnWWScgIUUpx/oGPgWlLlGZiYccX+/uGhvpppsfMvb8kj+1ai2yfLT7xpvCfXX471XUhetrVFW2VrsovHgHv9IPryEoV22rlKge4iF61PTQTITa0OjkAKIh40f1LqtrV9ihXK649TZhQQFunJaz5yfERy+nAGy5EcKsdjz9qhkxZUIj4hGj3GxVS5IPEd7jmOiElKHG1ZbcAUk+4PUdD78+IVQTXNEZpA1e1EFjSzMpTWfma3Mna2jvZ7EiNPf0n1Avmd/G6ugtOvgEeqnI2+MCMm7Jr57X2nuVE722ktqIPQ4ik13M+pltuRcbCQkAEDiNbsFobiRUOoSCtQySed9vpS1MmYcKVnVTbNaKXhJbG3JtpI/KEowIC1vT677dknJ91tT8sgZUpKeopmZmn5hRcm5oJWOueBC5ctxSzUouQZeEy68ClSCcgfxDAIyFeFQFUhc5KF+0hZA7bNTnS59M6kgja6kciA19M75dmYTwpCux3BJxpLF1zLbXCSckDxzHndaN8kpGOBAIspYm+wjitLjS3LpZFLe2rj8cGqp0oqyrg06pk796mx6RP7QBDMnscHJ7HtEX2JfV4W7IfLW6tKpNCiotqRu58xQGj+qrl7zrtKrMt8tU2UBQcGAlZ6xiEO62J+Mtx9GCjOdHYHqKXULUEgrSQDwexpY+Iq1XKfU5e8aWtKQkBDiQPCRCfSdQW1NNpnS+h3aDkLwI2p8TbhRp0wASnc4oERomlyku9Rpcvtjdjg456ht6duziLen3uwCQD6DiomrCbq6pLagCkZ3Twu8ZB7JdqCjx0FmBVQvWnSsusU9Kn5s9EnML34TKdBPMerVPlGjlLY3e5g8q9t40KmR0NLJ8S0gfU1h0Zp52aenJgEKX9XMeteyqVUT1iCBP07RwIG15X9ko8AQLaeVIlBav8KdEQW7bbjHQc+vmTQW0p12WZf8ASAIyYbtLqgZfWSkuD6PXWlJA4B4hItvhl/nGSYN2y56GpdAcBwUPA5/iLM2Ohcdw42Un9UsOurVbm0KPhBGvuaoD4nUFWncuU87XFGNC22+HaY0hR+pI4ijviBklTel84pAyqXBXEuUL1TTW1o+5Jhf6ZbD9vU33CjUlokGPLKvMf2mn7Y4esiMBufeAwtox9Kn3fytHEEjBfzxTiJ8cjOazsBKS44cY6EA6i76yX1flAj0femHhyCBGNMtrEm8ccbYIRIhZypfP6obOmh9JQjgZoXbf+F9Q7yYK0Mb9QaKlBzl0D/kDrXbWGnfpJyTDHphTXKxqxSgyglqXdCl/pxHuYsIjLUeADSu4ofAoHmRX/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Battlefield 4™ </div>
+                                <div class="name">Among Us</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action
+                                        Casual
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2159,7 +2159,7 @@ Fixes #12</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        40 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2176,32 +2176,32 @@ Fixes #12</div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            25 / 67 achievements unlocked
+                                            14 / 33 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBAcI/8QAKxAAAgEEAAUDAgcAAAAAAAAAAQIRAAMEBQYSITFhE0FRB5EyYoGhsdHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxExEiH/2gAMAwEAAhEDEQA/AOVKO8PaUbK1kXrjMLdnuF7npP8AAqtw9qX2+cbCPyIql3aJgePNaHpMbC0uNcXGZ7pYy4c/iMR8R7msrH8jB2bVJp08iduNLjWtY2bhNdARoZXnx48ilmtd2GLj7XVviC66SQR2Bmft8Vme71d3UZ7Y14hjAZWAgMDSp9+HsXJh0cjhwJgti4N7Mud8lYQflHv96I+ldRW5kaB0JiaScLibPw9eMO16XprIVmWWUeKlOKtsvRshHHw1tf6qGrZiTLW1VGR1tgyeZWg9JihH1Gw3a3h55DAEG2QR+o/eRQluMdm0SuNA9hb/ANqjt9/m7W0lvJKC0h5giLAn5NErYNsPYrLk/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwEFBgT/xAAtEAABBAEDAgQFBQEAAAAAAAABAgMEBREABiESMRMUQVEHInGB8BUyYZGhwf/EABgBAQADAQAAAAAAAAAAAAAAAAQAAgMF/8QAJREAAgECBQMFAAAAAAAAAAAAAQMCABEEEkFRcRMhYYGRscHR/9oADAMBAAIRAxEAPwAJ+GVbVWlhIYsmi8+EdTSD2x6n274/5q1ZrKGiq/PW0TzHmJC0ITyoIT1HGPsM++snsu7boLnzjrS3U+GUdKCAeSD6/TSpt+rmSdvxDLhInOz3XJMGvSkqe8Lq6usn9qQCe5x6aMwkTA3tYe9c3EyktlyTlNu1+b220JrOnZtW1uB2Q4lX6YiMJHg5PBJPHvjj87aq9w11NZbXXc0kcxiw4ELRjGRkDkfcH84Vp2x93xnRbNbct3gpkIXGCWVoKe/y9CyrPPt/WiDd25G3oKqeBXGAyleXUKwDkHOMDtzq0Qy4JvUV1ZSiTfTjz215+K49jR4rz9o5MjpkFmA8tpKjwF9PCv5xnP10oXEOVCDSpU5ZhyocVLHU6WWltNqBVHKgPlPA+uc886ItqWTVbPeVIz4LzDjKiPTqSQP9xpe258UK2NVsRZTyShKEpU0+yVJyBzgjPGdZNm1DQ5cc1tPzaiY8vW/qQiZCos7KtcmCRXQIVPBQ2lLtfEtFuKn4cSrpWscjhJ5Azk+2iffFnAt9ySpdTVtVURWAmK0srSggc/MeTk86Xb34q1CK2S3VtR0SXG1ISpljBGRjuQMd9AijlRPvpS8Wx8TnXl9b/VMwDWOvJkDHmv/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Snowbound</div>
-                                                <div class="unlocked">7 Jul 2024</div>
+                                                <div>MANAGER</div>
+                                                <div class="unlocked">19 Jan 2025</div>
                                             </div>
-                                            <div class="description">Play all Final Stand maps</div>
+                                            <div class="description">Complete 100 total tasks</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABwADBAUIBv/EACkQAAEEAgAFBAEFAAAAAAAAAAECAwQRAAUGByEiMRMUMlESQWFxgrH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AyshJWoJT5JoZJm6+TCcUiQ0pNH5V2n+DkjhqN7ziLWxyCQ7JbSQPoqF5pBnU6OfwFqYcEtSJ6JktyUWqWruX2pP30CaH6UcsmjLmLClzw5bv8EbaE4y057OZEQ+sBNhhw2FINeOo6YLcg6zlhHD/ABxrvyNJaUp4/wBUk/7WUSdjKibJ2VCkvMPFwqC2nCk+b8jHeHd3J0M5cuEhlTymltD1UlQSFCiR1HXKvAMOn55bVlbTm51kXbvCN7VbspZJKaqwn43X7V5wbcVydbM3DsjTR3I0VwBXpLoUqu6gPAvKfFl0f//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcEBf/EACwQAAEDAwMDAwIHAAAAAAAAAAECAwQFBhEAEiExQWEHE1EUcSMyM0JigbH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQAD/8QAJREBAAEEAAQHAQAAAAAAAAAAAQIAAwQRBRIxoRMhQVFxgbHB/9oADAMBAAIRAxEAPwDJ6Xei9rvWtTK1XS5U3ZcdEkpLhbZaChnGBgnHck9ums9Qqdg/Wqg25aVvSmkEo+qmENpWf4DBWoeTjxrgWJe1GFhW3T7qllykwpUhiXCaX+K6nhbSijqpsblj4yBnOnVSr/pZWac4zbdPfkPhBy03TzuTxx245+eNQcLhM8i5O9m3l80DaAD1dJ19P7SZZZaSMLXN0++zRSXZ9kVZwM1mlLtZ939OdCll2KpWM4UF/kP3wD86it5UJigVlcWFUmKpEICmpTCVJCgexBHB8cjzq40+KlqgSIdRbLbb6l+1GUrcppB6Dxg8+NBL7bcqdptS5J3yoqvbUo9eDtP+Z/vTsbHbNx5ZrH2XZ8i7e+qqX8GM7PixOV1vX6NHbFp/vMvv7FupyApKQrA+5TzpSxSCisUqXHcLTZdKt27KxtBO0KHUK8+dTai1JdPkbvcdS0eobURz86RP35KWIpDCStgk7lfuOMZPnGnI1wxb+MQC4aTT3qrnJOTydDrqlx49vVeM64kOrkK2Izyc4OhtQvary0FCXQyk9mxjRx9919ZU84pavlRzrEaTlcWtyixtm6//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Storm bringer</div>
-                                                <div class="unlocked">3 Feb 2024</div>
+                                                <div>HIDDEN TALENT</div>
+                                                <div class="unlocked">20 Jul 2024</div>
                                             </div>
-                                            <div class="description">Obtain 20 000 points in the Singapore mission in the Campaign</div>
+                                            <div class="description">Survive a Game as Crew in Hide n Seek Mode</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+23 others...</div>
+                                            <div class="description ellipsis">+12 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -2212,7 +2212,7 @@ Fixes #12</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2025, 15:20:53 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2025, 16:14:37 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
