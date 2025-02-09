@@ -1903,7 +1903,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.55m out of 232m repositories</span>
+                                    <span class="gh">ranked 5.55m out of 235m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2094,7 +2094,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQMEBgAC/8QALBAAAQMDAwEIAQUAAAAAAAAAAgEDBAUGEQASIQcTIjFBUYGRoWEUFSMlMv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAwX/xAAZEQEAAwEBAAAAAAAAAAAAAAABABESAiL/2gAMAwEAAhEDEQA/ANNadAp9RpMidUzeRAI8qLiigiPKqvrogZ1sKnajTa4UNF2/qEPu/GfrOth08aGRbjzLw7m3HHQJFXxFeFT70TVbWpNuQlOXUqjIhuHhmnISoL7mMiKoPK+WVxrnq3M8uRIMs+2EVHCplcGIRbUkEfd+M8/OmLqt2n0+jNVCmOPKJGGFJxSQhLGFT09ffXUy1qTcsMHItRqEeK2WHadvVRYcxkhFC8PPC40v1CbCPbkeM0mxptxoRHOe6PCJoLcZ8qz301x+xkqpz2ziZTz51Pe7cWQ7SGDkuxKkUndBfENwi6iJ/v8AHhrM2nckajwTYktPqe8iFQBS8V89JVq5qBWaccWoR5BoqKoqrCqoFjCEP5TRG5ToxUTsaUMh2stvRGGKkzJ2zDjkqg+eFwaZ9+NQdTF/p2u7n+YOffVKiXLb9FghDgx5IAiJuNI+FcLGFIueVXVG7rmiVinhGiNv7u0E8mCjjC/egNyvRirn/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Full Refund</div>
@@ -2191,7 +2191,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2025, 11:48:15 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Feb 2025, 12:20:33 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
